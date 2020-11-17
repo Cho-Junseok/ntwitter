@@ -20,7 +20,6 @@ function App() {
       ) : (
         "Initializing..."
       )}
-      <footer>&copy; Ntwitter {new Date().getFullYear()}</footer>
     </>
   );
 }
